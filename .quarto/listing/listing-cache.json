@@ -1,0 +1,13 @@
+{
+  "listingMap": {
+    "index.qmd": [
+      "posts"
+    ],
+    "portfolio.qmd": [
+      "posts"
+    ],
+    "index_old.qmd": [
+      "posts"
+    ]
+  }
+}

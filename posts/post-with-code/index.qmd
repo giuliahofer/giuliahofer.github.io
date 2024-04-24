@@ -1,0 +1,13 @@
+---
+title: "Post With Code"
+author: "Giulia Hofer"
+date: "2024-04-24"
+categories: [news, code, analysis]
+image: "image.jpg"
+---
+
+This was a project using DHS data. You can find the project \[here\](){target="\_blank"}
+
+```{r}
+1 + 1
+```
